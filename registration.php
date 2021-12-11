@@ -4,7 +4,7 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'SITC_ResetPasswordFix',
+    'Selectj_AdminResetPasswordFix',
     __DIR__
 );
 
